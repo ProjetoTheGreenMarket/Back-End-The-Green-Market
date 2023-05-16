@@ -5,12 +5,12 @@
 </div>
 
 ## 🌿 O Projeto
-<strong>The Green Market</strong> é um e-commerce de produtos de uso cotidiano sustentáveis, ecológicos e/ou recicláveis. Como projeto do bloco II e III do bootcamp FullStack Java, da <a href="https://www.linkedin.com/school/generationbrasil">Generation Brasil</a>, desenvolvemos todo o back-end da aplicação e, em breve, desenvolveremos também o front-end.
+<strong>The Green Market</strong> é um e-commerce de produtos de uso cotidiano sustentáveis, ecológicos e/ou recicláveis. Como projeto do bloco II e III do bootcamp FullStack Java, da <a href="https://www.linkedin.com/school/generationbrasil">Generation Brasil</a>, desenvolvemos todo o back e front-end da aplicação.
 
 ## 🎯 Nossa missão
 Baseada no <a href="https://brasil.un.org/pt-br/sdgs/13">Objetivo de Desenvolvimento Sustentável 13</a> da ONU, o The Green Market tem como foco a <strong>obtenção de renda</strong>, através da venda de produtos sustentáveis, para <strong>doação a organizações que promovem ações concretas de redução das mudanças climáticas e cuidados com o meio ambiente</strong>.
 
-Com isso, nossa missão é <strong>reduzir as mudanças climáticas, impactando o coletivo</strong>, ao mesmo tempo em que <strong>impactamos o consumo individual</strong>.
+Com isso, nossa missão é <strong>reduzir as mudanças climáticas</strong>, impactando o <strong>individual</strong>, para impactar o <strong>todo</strong>.
 
 <div align="center">
 <h1>
@@ -56,13 +56,8 @@ Realizamos os testes de todos os endpoints no <strong>Insomnia</strong>, para ga
 
 Clique <strong><a href="https://drive.google.com/file/d/1GEh0QLJ-aNtKVKk1aoWCmbMCcS50OI8r/view">aqui</strong> para conferir a documentação da <strong>API</strong> do The Green Market.
 
-<div align="center">
-<h1>
-  🪄 Front-end
-</h1>
-</div>
-
-### 🚧 Em construção. Aguarde novidades! 🚧
+## 🪄 Front-end
+Para conferir o front-end do The Green Market, clique <strong><a href="https://github.com/ProjetoTheGreenMarket/Front-End-The-Green-Market">aqui</strong>!
 
 ## 🔧 Ferramentas utilizadas 
 <p align="left">
